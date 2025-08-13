@@ -27,7 +27,10 @@ The workflow includes:
 - Handle imbalanced datasets with **SMOTE** or **class weights**  
 - Train a **Random Forest Classifier**  
 - Evaluate model using Accuracy, Precision, Recall, F1-Score, and ROC-AUC  
-- Save trained model for future predictions  
+- Save trained model for future predictions
+
+  ## Data-Set
+  - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 ---
 
